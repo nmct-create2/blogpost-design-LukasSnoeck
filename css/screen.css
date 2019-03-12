@@ -8,7 +8,7 @@ html {
     font-size: 16px;
     line-height: 1.5;
     font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
-    color: #111;
+    color: #17181A;
     padding: 48px 24px 24px;
 }
 
@@ -48,7 +48,7 @@ img {
 */
 
 h1 {
-    font-family: "Times New Roman", serif;
+    /*font-family: "Times New Roman", serif;*/
     font-size: 36px;
     font-weight: normal;
     line-height: 40px;
