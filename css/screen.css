@@ -21,7 +21,7 @@ html {
 }
 
 body {
-    max-width: 42em;
+    /*max-width: 42em;*/
     margin: 0 auto;
 }
 
@@ -242,6 +242,7 @@ a:focus {
 @font-face {
     font-family: "Droid Serif";
     font-weight: 400;
+    font-style: italic;
     src: url("../fonts/DroidSerif- Italic-webfont.woff") format("woff");
 }
 
@@ -254,6 +255,7 @@ a:focus {
 @font-face {
     font-family: "Droid Serif";
     font-weight: 400;
+    font-style: italic;
     src: url("../fonts/DroidSerif-BoldItalic-webfont.woff") format("woff");
 }
 
