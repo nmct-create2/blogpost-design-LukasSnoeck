@@ -151,6 +151,39 @@ a:focus {
     color: #1ABAFF;
 }
 
+/*
+    Components: Author
+*/
+.c-author {
+    display: flex;
+    align-items: center;
+}
+
+.c-author__image {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+}
+
+.c-author__name,
+.c-author__meta {
+    margin-bottom: 0;
+}
+
+.c-author__meta {
+    font-size: 14px;
+    font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif;
+    line-height: 16px;
+    margin-top: 4px;
+}
+
+.c-author__image {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+    margin-right: 16px;
+}
+
 /*fonts*/
 @font-face {
     font-family: "Inter UI";
